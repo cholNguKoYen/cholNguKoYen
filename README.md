@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cholNguKoYen
+- 👋 Hi, I’m @chol.12.03
 - 👀 I’m interested in C++, C#, DotNet, JavaScript, HTML + CSS.
 - 🌱 I’m currently learning C++ as main programming language
 - 💞️ I’m looking to collaborate on github, or facebook, instagram (Please send "Hi chol1203 depzai" first to direct messages, so I could know that's you)
